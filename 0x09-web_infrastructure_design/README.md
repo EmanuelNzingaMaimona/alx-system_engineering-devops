@@ -1,7 +1,7 @@
-# Regular expression
+# Web infrastructure design
 ***
 
-    Concepts
+    _Concepts
 
     DNS
     Monitoring
@@ -10,7 +10,7 @@
     Load balancer
     Server
 
-    Resources
+    _Resources
 
     Network basics concept page
     Server concept page
@@ -27,7 +27,7 @@
     What is HTTPS
     What is a firewall
 
-    Learning Objectives
+    _Learning Objectives
 
     You must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects
     You must be able to explain what each component is doing
