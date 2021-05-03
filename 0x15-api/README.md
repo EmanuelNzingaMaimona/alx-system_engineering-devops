@@ -1,37 +1,36 @@
-# SSH
+# API
 ***
-    _Concepts_
+    _Background Context_
 
-    Server
+    Old-school system administrators usually only know Bash and that is what they use to build their scripts. While Bash is perfectly fine for a lot of things, it can quickly get messy and not efficient compared to other programming languages. The new generation of system administrators, usually called SREs, are pretty much regular software engineers but instead of building products, they are managing systems. And one of the big differences with their predecessors is that they know more than just Bash scripting.
+    One popular way to expose an application and dataset is to use an API. Often, they are the public facing part of websites and micro-services so that allow outsiders to interact with them – access and modify their data. In this project, you will access employee data via an API to organize and export them to different data structures.
+    This is a perfect example of a task that is not suited for Bash scripting, so let’s build Python scripts.
 
     _Resources_
 
-    
-    What is a (physical) server - text
-    What is a (physical) server - video
-    SSH essentials
-    SSH Config File
-    Public Key Authentication for SSH
-    How Secure Shell Works
-    SSH Crash Course (Long, but highly informative. Watch this if configuring SSH is still confusing. It may be helpful to watch at x1.25 speed or above.)
-
-For reference:
-
-    Understanding the SSH Encryption and Connection Process
-    Secure Shell Wiki
-    IETF RFC 4251 (Description of the SSH Protocol)
-    Internet Engineering Task Force
-    Request for Comments
+    Friends don’t let friends program in shell script
+    What is an API
+    What is an API? In English, please
+    What is a REST API
+    What are microservices
+    PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry
 
 
     _Learning Objectives_
 
-    What is a server
-    Where servers usually live
-    What is SSH
-    How to create an SSH RSA key pair
-    How to connect to a remote host using an SSH RSA key pair
-    The advantage of using #!/usr/bin/env bash instead of /bin/bash
+
+    What Bash scripting should not be used for
+    What is an API
+    What is a REST API
+    What are microservices
+    What is the CSV format
+    What is the JSON format
+    Pythonic Package and module name style
+    Pythonic Class name style
+    Pythonic Variable name style
+    Pythonic Function name style
+    Pythonic Constant name style
+    Significance of CapWords or CamelCase in Python
 
 
 **
